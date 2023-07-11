@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  p {
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    color: #333;
+  }
+  
+  b {
+    font-weight: bold;
+  }
+  
+  i {
+    font-style: italic;
+  }
+  
+  u {
+    text-decoration: underline;
+  }
+  
